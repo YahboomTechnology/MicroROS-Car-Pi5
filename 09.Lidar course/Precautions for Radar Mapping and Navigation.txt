@@ -1,0 +1,4 @@
+Before performing mapping navigation operations, be sure to power off the car and ensure it is placed stably on the ground.
+Then, turn on the car and keep it stationary for 5 seconds to allow the gyroscope to complete the initialization process.
+If this step is not performed, the gyroscope may experience abnormal conditions, specifically as follows:
+During mapping navigation, the car body does not move, but the three-dimensional model in rviz may rotate in place or deviate in a certain direction.
